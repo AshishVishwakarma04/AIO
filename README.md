@@ -23,13 +23,13 @@ Run this Script on your VPS or any system , It will download all the bug bounty 
 
 ```sh
 
-git clone https://github.com/Parshwa219/auto-bbt
-cd auto-bbt
-chmod +x auto.sh
+(https://github.com/AshishVishwakarma04/AIO.git)
+cd AIO
+chmod +x AIO.sh
 ```
 ## Usage 
 ```sh
-sudo ./auto.sh
+sudo ./AIO.sh
 ```
 
 ## The list of tools  latest added: 
